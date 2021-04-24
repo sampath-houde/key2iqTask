@@ -8,12 +8,9 @@
     <string name="logic_puzzles_intermediate_nwarmup">Logic Puzzles - Intermediate \nWarmup</string>
     <string name="_1_jorge_runs_faster_than_drew_n2_drew_run_faster_than_bernard_n3_jorge_runs_faster_than_bernard">1. Jorge runs faster than Drew. \n2. Drew run faster than Bernard.\n3. Jorge runs faster than Bernard.</string>
     <string name="if_the_first_two_statements_are_true_then_the_third_statement_is">If the first two statements are true, then the third statement is:</string>
-    <string name="true">True</string>
-    <string name="false">False</string>
     <string name="uncertain">Uncertain</string>
     <string name="False">False</string>
     <string name="submit">Submit</string>
-    <string name="continue">Continue</string>
     <string name="home">Home</string>
     <string name="community">Community</string>
     <string name="profile">Profile</string>
@@ -22,6 +19,5 @@
     <string name="what_do_you_want_to_do">What do you want to do ...</string>
     <string name="menu">Menu</string>
     <string name="complete">Complete</string>
-    <string name="menu">Menu</string>
     <string name="feedback">Feedback</string>
 </resources>
