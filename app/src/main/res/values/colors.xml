@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFF</color>
+    <color name="lightPurpleColor">#D1BDF4</color>
+    <color name="purpleTextColor">#491D98</color>
+    <color name="blackColor">#000</color>
+    <color name="dividerColor">#CAC7C7</color>
+    <color name="titleTextColor">#292828</color>
+    <color name="darkGray">#777676</color>
+    <color name="blueStartColor">#010D2C</color>
+    <color name="blueEndColor">#192132</color>
+    <color name="yellow">#FF9800</color>
+    <color name="indicatorColor">#FFC822</color>
+    <color name="silver">#DADADA</color>
+    <color name="correctgreen">#8BC34A</color>
+    <color name="errorRed">#FF8383</color>
+</resources>
